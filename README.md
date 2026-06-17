@@ -84,8 +84,3 @@ Demographic Disparities: The customer base skews heavily Male (68%). Expanding f
 Subscription Gaps: SQL cohort analysis identified a high volume of users who purchase *Weekly* or *Monthly* but lack an active subscription, representing an uncaptured recurring revenue stream.
 
 Seasonal Stability: Total revenue maintains equitable distribution across all four seasons, providing highly predictable cash flow, with only minor optimizations needed during the Spring quarter.
-
-
-📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
