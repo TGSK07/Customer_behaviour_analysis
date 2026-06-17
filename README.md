@@ -72,8 +72,8 @@ Open ```sales_analytics_dashboard.pbix``` in Power BI, update the Data Source se
 Below are snapshots of the interactive Power BI dashboard, illustrating the end result of the data pipeline:
 
 
-Customer Analysis Revenue[Customer Analysis Revenue](asset/page1.png)
-Best-Worst Dashboard[Best-Worst Dashboard](asset/page2.png)
+Customer Analysis Revenue![Customer Analysis Revenue](asset/page1.png)
+Best-Worst Dashboard![Best-Worst Dashboard](asset/page2.png)
 
 ## Key Business Insights
 
