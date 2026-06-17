@@ -66,6 +66,15 @@ Launch Jupyter Notebook and run ```EDA.ipynb``` to clean the data and automatica
 
 Open ```sales_analytics_dashboard.pbix``` in Power BI, update the Data Source settings to point to your local PostgreSQL server, and hit Refresh.
 
+
+## Dashboard Previews
+
+Below are snapshots of the interactive Power BI dashboard, illustrating the end result of the data pipeline:
+
+
+Customer Analysis Revenue[Customer Analysis Revenue](asset/page1.png)
+Best-Worst Dashboard[Best-Worst Dashboard](asset/page2.png)
+
 ## Key Business Insights
 
 Category Dominance: *Clothing* drives the vast majority of transaction volume and total revenue, though cross-selling strategies are required to boost *Footwear* and *Accessories*.
@@ -76,10 +85,6 @@ Subscription Gaps: SQL cohort analysis identified a high volume of users who pur
 
 Seasonal Stability: Total revenue maintains equitable distribution across all four seasons, providing highly predictable cash flow, with only minor optimizations needed during the Spring quarter.
 
-
-🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 📝 License
 
